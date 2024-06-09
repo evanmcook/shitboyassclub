@@ -8,9 +8,9 @@
 
 🚮♣️🚮♣️🚮
 
-## [issue 001 is out now](https://github.com/evanmcook/smalltrashclub/wiki/001)
+## [issue 001 released on 6 November 2021](https://github.com/evanmcook/smalltrashclub/wiki/001)
 
-## [issue 002 is in progress](https://github.com/evanmcook/smalltrashclub/wiki/002)
+## [issue 002 released on 9 June 2024](https://github.com/evanmcook/smalltrashclub/wiki/002)
 
 
 if you enjoy small trash club, please consider buying me a coffee.  
